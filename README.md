@@ -20,7 +20,7 @@ Dr. Chetansing Rajput is a medical graduate of Nair Hospital, Mumbai University,
 * **ResearchGate:** [Chetansing Rajput](https://www.researchgate.net/profile/Chetansing-Rajput)
 * **Academia.edu:** [Chetansing Rajput](https://independent.academia.edu/rajputchetansing)
 * **Zenodo:** [Chetansing Rajput on Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22RAJPUT%2C%20CHETANSING%22&l=list&p=1&s=10&sort=bestmatch)
-
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8569-9460)
 ---
 
 ## Publications
