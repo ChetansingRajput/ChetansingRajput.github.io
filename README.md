@@ -30,6 +30,21 @@ Dr. Chetansing Rajput is a medical graduate of Nair Hospital, Mumbai University,
 * C. Rajput, *[The Universal Pythagorean Angle Lattice: Converging to pi, e, gamma, zeta(3), Catalan's Constant, and the Golden Ratio](https://pandianeducationaltrust.com/data/uploads/pjms-pandian-journal-of-mathematical-studies-files/pjms-volume-5-issue-1-july-2026/1-%20Chetansing%20Rajput.pdf)*, Pandian Journal of Mathematical Sciences, vol. 5, no. 1, pp. 1-12, 2026.
 * C. Rajput, *[Golden Ratio](https://doi.org/10.24297/jam.v20i.8945)*, Journal of Advances in Mathematics, vol. 20, pp. 19-42, 2021.
 
+## OEIS Contributions
+**Original Sequences Contributed:**
+* [A399405](https://oeis.org/A399405), [A400851](https://oeis.org/A400851), [A399776](https://oeis.org/A399776), [A401326](https://oeis.org/A401326): Deca-Lucas sequences of the Deca-Metallic Ratios.
+
+**OEIS Edits:**
+* [A083102](https://oeis.org/A083102), [A127261](https://oeis.org/A127261), [A180226](https://oeis.org/A180226), [A190005](https://oeis.org/A190005), [A190953](https://oeis.org/A190953), [A057093](https://oeis.org/A057093): Added citations linking to the primary publication.
+
+**OEIS Citation:**
+* Cited in the OEIS CiteR page: *[Metallic Ratios: Beyond the Golden Ratio](https://share.google/cTg2MlW0cCmGZyZxn)*, Journal of Advances in Mathematics (2021).
+
+## Applied Sciences & Public Safety
+* Indian Patent No. 408336, *[A Gas Discharge Tube for Generating Ionization Radiation](https://doi.org/10.5281/zenodo.21271399)*, Government of India, Patent Office, Granted 30 September 2022.
+* C. Rajput, *[Radioactive Highway: Ionizing Radiation on a National Highway — Field detection of unshielded industrial gamma radiography at Padgha, Tal. Bhiwandi, Dist. Thane, Maharashtra, India](https://doi.org/10.5281/ZENODO.22847666)*, Working paper, Zenodo, 2026.
+* C. Rajput, *[Reciprocal Potential Oscillations across the Electrolytic Cells Connected in Series](https://doi.org/10.5539/ijc.v8n1p32)*, International Journal of Chemistry, vol. 8, no. 1, 2016.
+
 ## Preprints
 * C. Rajput, *[The Pythagorean Angle Lattice and the Gaps between Rational Points on the Unit Circle: Determinants, Correlations and Runs](https://doi.org/10.5281/ZENODO.23974969)*, Preprint, Zenodo, 2026.
 * C. Rajput, *[The Pythagorean Angle Lattice and Minkowski's Question-Mark Function: Rényi Spectrum and Extremal Local Dimensions](https://doi.org/10.5281/ZENODO.23634525)*, Preprint, Zenodo, 2026.
@@ -52,18 +67,3 @@ Dr. Chetansing Rajput is a medical graduate of Nair Hospital, Mumbai University,
 * C. Rajput, *[The Universal Metallic Family n + sqrt(n^2 + N): Base-N Shift Laws, Decimal-Metallic Layers, and Primitive Pythagorean Triples](https://doi.org/10.5281/ZENODO.23878941)*, Preprint, Zenodo, 2026.
 * C. Rajput, *[OEIS : Integer Sequences Associated with the Deca-Metallic Ratios](https://doi.org/10.5281/ZENODO.23732953)*, Preprint, Zenodo, 2026.
 * C. Rajput, *[The Genealogy of the Pythagorean Angle Lattice: Angular Census, Cubic Carries and Transfer Operators](https://doi.org/10.5281/ZENODO.23853480)*, Preprint, Zenodo, 2026.
-
-## OEIS Contributions
-**Original Sequences Contributed:**
-* [A399405](https://oeis.org/A399405), [A400851](https://oeis.org/A400851), [A399776](https://oeis.org/A399776), [A401326](https://oeis.org/A401326): Deca-Lucas sequences of the Deca-Metallic Ratios.
-
-**OEIS Edits:**
-* [A083102](https://oeis.org/A083102), [A127261](https://oeis.org/A127261), [A180226](https://oeis.org/A180226), [A190005](https://oeis.org/A190005), [A190953](https://oeis.org/A190953), [A057093](https://oeis.org/A057093): Added citations linking to the primary publication.
-
-**OEIS Citation:**
-* Cited in the OEIS CiteR page: *[Metallic Ratios: Beyond the Golden Ratio](https://share.google/cTg2MlW0cCmGZyZxn)*, Journal of Advances in Mathematics (2021).
-
-## Applied Sciences & Public Safety
-* Indian Patent No. 408336, *[A Gas Discharge Tube for Generating Ionization Radiation](https://doi.org/10.5281/zenodo.21271399)*, Government of India, Patent Office, Granted 30 September 2022.
-* C. Rajput, *[Radioactive Highway: Ionizing Radiation on a National Highway — Field detection of unshielded industrial gamma radiography at Padgha, Tal. Bhiwandi, Dist. Thane, Maharashtra, India](https://doi.org/10.5281/ZENODO.22847666)*, Working paper, Zenodo, 2026.
-* C. Rajput, *[Reciprocal Potential Oscillations across the Electrolytic Cells Connected in Series](https://doi.org/10.5539/ijc.v8n1p32)*, International Journal of Chemistry, vol. 8, no. 1, 2016.
