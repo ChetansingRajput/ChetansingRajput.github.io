@@ -6,7 +6,7 @@
 📧 **Email:** chetansingkrajput1129@gmail.com
 
 ## Biography
-Dr. Chetansing Rajput is a medical graduate of Nair Hospital, Mumbai University, and serves as Assistant Commissioner for the Government of Maharashtra. He is a researcher in pure mathematics and high energy physics. In 2025, he received the Maharashtra Udyog Ratna Award (Times Spotlight Nashik, 2025).
+Dr. Chetansing Rajput is a medical graduate of Nair Hospital, Mumbai University, and serves as Assistant Commissioner for the Government of Maharashtra. He is a researcher in pure mathematics and high energy physics. In 2025, he received the Maharashtra Udyog Ratna Award ([Times Spotlight](https://www.scribd.com/document/838773151/Times-Spotlight-Nashik-2025-Pg1)).
 
 ## Research Interests
 * The Pythagorean Angle Lattice (PAL) framework and the Omni-Metallic family
