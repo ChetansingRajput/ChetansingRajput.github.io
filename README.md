@@ -1,4 +1,4 @@
-<img src="YOUR_PHOTO_FILENAME.jpg" width="200" align="right" style="border-radius: 50%; margin-left: 20px; margin-bottom: 20px;" />
+<img src="profile.jpg" width="200" align="right" style="border-radius: 50%; margin-left: 20px; margin-bottom: 20px;" />
 
 # Dr. Chetansing Rajput
 **Medical Graduate | Assistant Commissioner, Government of Maharashtra | Researcher in Pure Mathematics and High Energy Physics**
