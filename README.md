@@ -22,4 +22,48 @@ Dr. Chetansing Rajput is a medical graduate of Nair Hospital, Mumbai University,
 * **Zenodo:** [Chetansing Rajput on Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22RAJPUT%2C%20CHETANSING%22&l=list&p=1&s=10&sort=bestmatch)
 
 ---
-*Publications and Preprints will be listed here soon.*
+
+## Publications
+* C. Rajput and H. Manjunath, *[Metallic means and Pythagorean triples](https://nntdm.net/volume-30-2024/number-1/184-194/)*, Notes on Number Theory and Discrete Mathematics, vol. 30, no. 1, pp. 184-194, 2024.
+* C. Rajput, *[Deca-metallic ratios: a base-10 analogue of metallic means with their geometric origin in primitive Pythagorean triples](https://doi.org/10.51846/jnhm.v2i2.5488)*, Journal of New Horizons in Mathematics, vol. 2, no. 2, pp. 25-58, 2026.
+* C. Rajput, *[The Pythagorean angle lattice and the omni-metallic framework: arithmetic bridges and spectral relations](https://doi.org/10.5281/zenodo.23122625)*, Asia Mathematika, vol. 10, no. 2, pp. 83-98, 2026.
+* C. Rajput, *[The Universal Pythagorean Angle Lattice: Converging to pi, e, gamma, zeta(3), Catalan's Constant, and the Golden Ratio](https://pandianeducationaltrust.com/data/uploads/pjms-pandian-journal-of-mathematical-studies-files/pjms-volume-5-issue-1-july-2026/1-%20Chetansing%20Rajput.pdf)*, Pandian Journal of Mathematical Sciences, vol. 5, no. 1, pp. 1-12, 2026.
+* C. Rajput, *[Golden Ratio](https://doi.org/10.24297/jam.v20i.8945)*, Journal of Advances in Mathematics, vol. 20, pp. 19-42, 2021.
+
+## Preprints
+* C. Rajput, *[The Pythagorean Angle Lattice and the Gaps between Rational Points on the Unit Circle: Determinants, Correlations and Runs](https://doi.org/10.5281/ZENODO.23974969)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[The Pythagorean Angle Lattice and Minkowski's Question-Mark Function: Rényi Spectrum and Extremal Local Dimensions](https://doi.org/10.5281/ZENODO.23634525)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[The Pythagorean Angle Lattice and the Calkin-Wilf Tree: Exact Dimension, a Lagrange Theorem and the Lyapunov Constant](https://doi.org/10.5281/ZENODO.23632480)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[Matching gaps in the Pythagorean angle lattice: exact gaps, density and the lifetime spectrum](https://doi.org/10.5281/ZENODO.23609298)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[Odd-depth arithmetic of the Pythagorean angle lattice: exact depth, Galois structure, field lattices and realization heights](https://doi.org/10.5281/ZENODO.23609096)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[Dynamics and statistics of the Pythagorean angle lattice: the forest law, coincidence multiplicities and arithmetic populations](https://doi.org/10.5281/ZENODO.23608725)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[Covering Laws for Powers of the Pythagorean Angle Lattice: Pell Twins and a Ternary Invariant](https://doi.org/10.5281/ZENODO.23438673)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[A Symmetric Gaussian Cubic Form on the Pythagorean Angle Lattice: Unit Triples, a Z[√3] Composition Law and Pell Symmetries](https://doi.org/10.5281/ZENODO.23438352)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[Degree Rigidity in the Pythagorean Angle Lattice](https://doi.org/10.5281/ZENODO.23398349)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[Cyclotomic Square-Return Rigidity in the Pythagorean Angle Lattice](https://doi.org/10.5281/ZENODO.23397466)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[Dyadic Division Towers of the Angle Difference in the Pythagorean Angle Lattice: Cyclotomic Descent, Exact Decoding, Power Resonance and Arithmetic Moduli](https://doi.org/10.5281/ZENODO.23303124)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[The Pythagorean Angle Lattice in Quantum Mechanics: Exact Spin Rotations, Gate Synthesis Obstructions and Arithmetic No-Go Theorems for Quantum Computation](https://doi.org/10.5281/ZENODO.23283560)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[The Pythagorean Angle Lattice: Exponent Walls, Elliptic Closure and Dyadic Division](https://doi.org/10.5281/ZENODO.23282315)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[Canonical Difference Dynamics in the Pythagorean Angle Lattice: Return Laws, Holonomy Collapse, Collisions, Division Height and Prime-Power Folding](https://doi.org/10.5281/ZENODO.23281354)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[Critical Walls in the Pythagorean Angle Lattice: Affine Division, Depth Spectra, Galois Packets, Dyadic Wall Primes and the Arithmetic of the Equal-Leg Wall](https://doi.org/10.5281/ZENODO.23219915)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[The Statistics of the Pythagorean Angle Lattice: Gaps, Colours, Correlations and Extremes](https://doi.org/10.5281/ZENODO.23855441)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[The Arithmetic of the Pythagorean Angle Lattice: Growth, Hardy Sums, Norm Shells and Depth Layers](https://doi.org/10.5281/ZENODO.23854676)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[The Dynamics of the Pythagorean Angle Lattice: the Forest, its Outer Limit Set and the Stern 3-adic Walk](https://doi.org/10.5281/ZENODO.23854084)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[The Universal Metallic Family n + sqrt(n^2 + N): Base-N Shift Laws, Decimal-Metallic Layers, and Primitive Pythagorean Triples](https://doi.org/10.5281/ZENODO.23878941)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[OEIS : Integer Sequences Associated with the Deca-Metallic Ratios](https://doi.org/10.5281/ZENODO.23732953)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[The Genealogy of the Pythagorean Angle Lattice: Angular Census, Cubic Carries and Transfer Operators](https://doi.org/10.5281/ZENODO.23853480)*, Preprint, Zenodo, 2026.
+
+## OEIS Contributions
+**Original Sequences Contributed:**
+* [A399405](https://oeis.org/A399405), [A400851](https://oeis.org/A400851), [A399776](https://oeis.org/A399776), [A401326](https://oeis.org/A401326): Deca-Lucas sequences of the Deca-Metallic Ratios.
+
+**OEIS Edits:**
+* [A083102](https://oeis.org/A083102), [A127261](https://oeis.org/A127261), [A180226](https://oeis.org/A180226), [A190005](https://oeis.org/A190005), [A190953](https://oeis.org/A190953), [A057093](https://oeis.org/A057093): Added citations linking to the primary publication.
+
+**OEIS Citation:**
+* Cited in the OEIS CiteR page: *[Metallic Ratios: Beyond the Golden Ratio](https://share.google/cTg2MlW0cCmGZyZxn)*, Journal of Advances in Mathematics (2021).
+
+## Applied Sciences & Public Safety
+* Indian Patent No. 408336, *[A Gas Discharge Tube for Generating Ionization Radiation](https://doi.org/10.5281/zenodo.21271399)*, Government of India, Patent Office, Granted 30 September 2022.
+* C. Rajput, *[Radioactive Highway: Ionizing Radiation on a National Highway — Field detection of unshielded industrial gamma radiography at Padgha, Tal. Bhiwandi, Dist. Thane, Maharashtra, India](https://doi.org/10.5281/ZENODO.22847666)*, Working paper, Zenodo, 2026.
+* C. Rajput, *[Reciprocal Potential Oscillations across the Electrolytic Cells Connected in Series](https://doi.org/10.5539/ijc.v8n1p32)*, International Journal of Chemistry, vol. 8, no. 1, 2016.
