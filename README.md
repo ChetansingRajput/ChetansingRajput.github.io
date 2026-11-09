@@ -27,8 +27,8 @@ Dr. Chetansing Rajput is a medical graduate of Nair Hospital, Mumbai University,
 
 ## Websites
 
-* **Research Works (Google Site):** [Chetansing Rajput Research Works](https://sites.google.com/view/chetansingrajput/home?authuser=8)
-* **Research Page (ChatGPT Site):** [Chetansing Rajput Research Page](https://chetansing-rajput-research.endearinghyssop.chatgpt.site/#research)
+* **Research Works :** [Chetansing Rajput Research Works](https://sites.google.com/view/chetansingrajput/home?authuser=8)
+* **Research Page :** [Chetansing Rajput Research Page](https://chetansing-rajput-research.endearinghyssop.chatgpt.site/#research)
 
 ## Publications
 * C. Rajput and H. Manjunath, *[Metallic means and Pythagorean triples](https://nntdm.net/volume-30-2024/number-1/184-194/)*, Notes on Number Theory and Discrete Mathematics, vol. 30, no. 1, pp. 184-194, 2024.
