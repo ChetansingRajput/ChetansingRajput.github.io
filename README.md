@@ -15,13 +15,20 @@ Dr. Chetansing Rajput is a medical graduate of Nair Hospital, Mumbai University,
 * Integer Sequences and Arithmetic Geometry
 
 ## Academic Profiles
+
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8569-9460)
+
 * **ORCID:** [0000-0001-8569-9460](https://orcid.org/0000-0001-8569-9460)
 * **Google Scholar:** [Chetansing Rajput](https://scholar.google.com/citations?user=ar_eDl4AAAAJ&hl=en)
 * **ResearchGate:** [Chetansing Rajput](https://www.researchgate.net/profile/Chetansing-Rajput)
 * **Academia.edu:** [Chetansing Rajput](https://independent.academia.edu/rajputchetansing)
 * **Zenodo:** [Chetansing Rajput on Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22RAJPUT%2C%20CHETANSING%22&l=list&p=1&s=10&sort=bestmatch)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8569-9460)
----
+* **OEIS Wiki:** [Chetansing Rajput on OEIS Wiki](https://oeis.org/wiki/User:Chetansing_Rajput)
+
+## Websites
+
+* **Research Works (Google Site):** [Chetansing Rajput Research Works](https://sites.google.com/view/chetansingrajput/home?authuser=8)
+* **Research Page (ChatGPT Site):** [Chetansing Rajput Research Page](https://chetansing-rajput-research.endearinghyssop.chatgpt.site/#research)
 
 ## Publications
 * C. Rajput and H. Manjunath, *[Metallic means and Pythagorean triples](https://nntdm.net/volume-30-2024/number-1/184-194/)*, Notes on Number Theory and Discrete Mathematics, vol. 30, no. 1, pp. 184-194, 2024.
