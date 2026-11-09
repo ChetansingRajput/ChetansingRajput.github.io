@@ -47,6 +47,13 @@ Dr. Chetansing Rajput is a medical graduate of Nair Hospital, Mumbai University,
 
 ## Preprints
 * C. Rajput, *[The Pythagorean Angle Lattice and the Gaps between Rational Points on the Unit Circle: Determinants, Correlations and Runs](https://doi.org/10.5281/ZENODO.23974969)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[Depth Arithmetic of the Pythagorean Angle Lattice: The Divisibility Index, Depth Genealogies and Depth Spectra](https://doi.org/10.5281/ZENODO.24056297)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[Real Parts of Gaussian Powers on the Pythagorean Angle Lattice: Seed Counts, Value Spectra and Primitive Divisors](https://doi.org/10.5281/ZENODO.24058982)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[Sign Cubes of the Pythagorean Angle Lattice: Winding Carries, Reed-Muller Cosets and Rounded Affine Reconstruction](https://doi.org/10.5281/ZENODO.24056079)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[Consecutive Angles of the Pythagorean Angle Lattice: Skeletons, an Exact Gap Formula, the Cubic Law and the Critical Constant](https://doi.org/10.5281/ZENODO.24059155)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[Dyadic Galois Theory of the Pythagorean Angle Lattice: Degrees, Galois Images and the 2-adic Coordinate of Depth](https://doi.org/10.5281/ZENODO.24059060)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[Diophantine Structure and Symbolic Dynamics of the Pythagorean Angle Lattice: Separation of Powers, Rounding Shadows, Discrepancy Languages and a Forest of Half-Angle Cotangents](https://doi.org/10.5281/ZENODO.24059260)*, Preprint, Zenodo, 2026.
+* C. Rajput, *[Mahler Measures, Heights and Integer Values of the Pythagorean Angle Lattice: the Catalan Law, Exact Inversion and Multiplicities](https://doi.org/10.5281/ZENODO.24059418)*, Preprint, Zenodo, 2026.
 * C. Rajput, *[The Pythagorean Angle Lattice and Minkowski's Question-Mark Function: Rényi Spectrum and Extremal Local Dimensions](https://doi.org/10.5281/ZENODO.23634525)*, Preprint, Zenodo, 2026.
 * C. Rajput, *[The Pythagorean Angle Lattice and the Calkin-Wilf Tree: Exact Dimension, a Lagrange Theorem and the Lyapunov Constant](https://doi.org/10.5281/ZENODO.23632480)*, Preprint, Zenodo, 2026.
 * C. Rajput, *[Matching gaps in the Pythagorean angle lattice: exact gaps, density and the lifetime spectrum](https://doi.org/10.5281/ZENODO.23609298)*, Preprint, Zenodo, 2026.
