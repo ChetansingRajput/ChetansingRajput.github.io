@@ -36,7 +36,13 @@ Dr. Chetansing Rajput is a medical graduate of Nair Hospital, Mumbai University,
 * C. Rajput, *[The Pythagorean angle lattice and the omni-metallic framework: arithmetic bridges and spectral relations](https://doi.org/10.5281/zenodo.23122625)*, Asia Mathematika, vol. 10, no. 2, pp. 83-98, 2026.
 * C. Rajput, *[The Universal Pythagorean Angle Lattice: Converging to pi, e, gamma, zeta(3), Catalan's Constant, and the Golden Ratio](https://pandianeducationaltrust.com/data/uploads/pjms-pandian-journal-of-mathematical-studies-files/pjms-volume-5-issue-1-july-2026/1-%20Chetansing%20Rajput.pdf)*, Pandian Journal of Mathematical Sciences, vol. 5, no. 1, pp. 1-12, 2026.
 * C. Rajput, *[Golden Ratio](https://doi.org/10.24297/jam.v20i.8945)*, Journal of Advances in Mathematics, vol. 20, pp. 19-42, 2021.
+## International Collaboration
 
+Dr. Rajput has engaged in international research collaborations, notably co-authoring work with researchers affiliated with leading global institutions.
+
+* **Inria, Université Côte d'Azur, France:** Co-authored with researchers from Inria on "Metallic means and Pythagorean triples" (2024).
+  * **Paper:** [Metallic means and Pythagorean triples](https://nntdm.net/volume-30-2024/number-1/184-194/)
+  * **Institutional Repository:** [HAL Open Science (Inria)](https://inria.hal.science/hal-04811668)
 ## OEIS Contributions
 **Original Sequences Contributed:**
 * [A399405](https://oeis.org/A399405), [A400851](https://oeis.org/A400851), [A399776](https://oeis.org/A399776), [A401326](https://oeis.org/A401326): Deca-Lucas sequences of the Deca-Metallic Ratios.
