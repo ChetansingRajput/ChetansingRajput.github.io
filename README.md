@@ -65,10 +65,17 @@ Dr. Rajput has engaged in international research collaborations, notably co-auth
 **OEIS Citation:**
 * Cited in the OEIS CiteR page: *[Metallic Ratios: Beyond the Golden Ratio](https://share.google/cTg2MlW0cCmGZyZxn)*, Journal of Advances in Mathematics (2021).
 
-## Applied Sciences & Public Safety
+## Applied Sciences & Innovation
 * Indian Patent No. 408336, *[A Gas Discharge Tube for Generating Ionization Radiation](https://doi.org/10.5281/zenodo.21271399)*, Government of India, Patent Office, Granted 30 September 2022.
-* C. Rajput, *[Radioactive Highway: Ionizing Radiation on a National Highway — Field detection of unshielded industrial gamma radiography at Padgha, Tal. Bhiwandi, Dist. Thane, Maharashtra, India](https://doi.org/10.5281/ZENODO.22847666)*, Working paper, Zenodo, 2026. ([National News Channel Coverage](https://youtu.be/RjmAHXJwmx4?si=zFltElorN34WBcL4)).
 * C. Rajput, Electro-Chemical Oscillations: *[Reciprocal Potential Oscillations across the Electrolytic Cells Connected in Series](https://doi.org/10.5539/ijc.v8n1p32)*, International Journal of Chemistry, vol. 8, no. 1, 2016.
+
+## Public Safety & Radiological Protection
+* [Field detection of unshielded industrial gamma radiography at Phils Heavy Engineering Private Limited, Padgha, Thane District.](https://doi.org/10.5281/ZENODO.22847666)
+* [National News Channel Coverage of the Padgha radiation incident.](https://youtu.be/RjmAHXJwmx4?si=zFltElorN34WBcL4)
+* [Field detection of X-ray radiation from Lalit Pipe Factory, Varaskol, Shahapur tehsil, Thane District.](https://www.researchgate.net/publication/399681955_Radiation_From_Pipe_Factory_Ionizing_Radiation_On_Highway_Radiographic_Testing_Non-Destructive_Testing_Radiation_Hazards)
+* [National News Channel Coverage of the Lalit Pipe Factory radiation incident.](https://youtu.be/YWAm35EUi8M?si=t5DVs_AK34oRBQE-)
+* Detection of illegal Thorium-232 doping in consumer goods sold on online shopping portals.
+* Filed a Writ Petition, [WP/13091/2026 in the Bombay High Court](https://bombayhighcourt.gov.in/bhc/casestatus/casenumber), against the Union of India, Department of Atomic Energy, AERB, BARC, and industrial entities to address these public safety hazards.
 
 ## Preprints
 * C. Rajput, *[The Pythagorean Angle Lattice and the Gaps between Rational Points on the Unit Circle: Determinants, Correlations and Runs](https://doi.org/10.5281/ZENODO.23974969)*, Preprint, Zenodo, 2026.
