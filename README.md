@@ -42,7 +42,7 @@ Dr. Chetansing Rajput is a medical graduate of Nair Hospital, Mumbai University,
 
 The 2024 paper *[Metallic means and Pythagorean triples](https://nntdm.net/volume-30-2024/number-1/184-194/)* is cited in the Wikipedia article on "[Metallic mean](https://en.wikipedia.org/wiki/Metallic_mean#cite_note-6)". 
 
-This work introduced the quarter-angle identity $\cot(\theta/4)$ for primitive Pythagorean triangles, which precisely yields the values of generalized metallic means. Key contributions derived from this framework include:
+This work introduced the quarter-angle identity cot(θ/4) for primitive Pythagorean triangles, which precisely yields the values of generalized metallic means. Key contributions derived from this framework include:
 * Establishing a novel connection between number theory and Diophantine geometry.
 * Identifying the [Golden Ratio within primitive Pythagorean triples](https://pandianeducationaltrust.com/data/uploads/pjms-pandian-journal-of-mathematical-studies-files/pjms-volume-5-issue-1-july-2026/1-%20Chetansing%20Rajput.pdf).
 * Proving primitive Pythagorean triples as [universal constant generators](https://doi.org/10.5281/zenodo.22234214), yielding algebraic, logarithmic, and transcendental constants.
