@@ -67,8 +67,8 @@ Dr. Rajput has engaged in international research collaborations, notably co-auth
 
 ## Applied Sciences & Public Safety
 * Indian Patent No. 408336, *[A Gas Discharge Tube for Generating Ionization Radiation](https://doi.org/10.5281/zenodo.21271399)*, Government of India, Patent Office, Granted 30 September 2022.
-* C. Rajput, *[Radioactive Highway: Ionizing Radiation on a National Highway — Field detection of unshielded industrial gamma radiography at Padgha, Tal. Bhiwandi, Dist. Thane, Maharashtra, India](https://doi.org/10.5281/ZENODO.22847666)*, Working paper, Zenodo, 2026.
-* C. Rajput, *[Reciprocal Potential Oscillations across the Electrolytic Cells Connected in Series](https://doi.org/10.5539/ijc.v8n1p32)*, International Journal of Chemistry, vol. 8, no. 1, 2016.
+* C. Rajput, *[Radioactive Highway: Ionizing Radiation on a National Highway — Field detection of unshielded industrial gamma radiography at Padgha, Tal. Bhiwandi, Dist. Thane, Maharashtra, India](https://doi.org/10.5281/ZENODO.22847666)*, Working paper, Zenodo, 2026. ([National News Channel Coverage](https://youtu.be/RjmAHXJwmx4?si=zFltElorN34WBcL4)).
+* C. Rajput, Electro-Chemical Oscillations: *[Reciprocal Potential Oscillations across the Electrolytic Cells Connected in Series](https://doi.org/10.5539/ijc.v8n1p32)*, International Journal of Chemistry, vol. 8, no. 1, 2016.
 
 ## Preprints
 * C. Rajput, *[The Pythagorean Angle Lattice and the Gaps between Rational Points on the Unit Circle: Determinants, Correlations and Runs](https://doi.org/10.5281/ZENODO.23974969)*, Preprint, Zenodo, 2026.
