@@ -13,6 +13,7 @@ Dr. Chetansing Rajput is a medical graduate of Nair Hospital, Mumbai University,
 * Deca-Metallic Ratios and their geometric origin in primitive Pythagorean triples
 * Algebraic Number Theory, Cyclotomic Fields, and Spectral Theory
 * Integer Sequences and Arithmetic Geometry
+* X-rays and High Energy Physics
 
 ## Academic Profiles
 
@@ -36,7 +37,16 @@ Dr. Chetansing Rajput is a medical graduate of Nair Hospital, Mumbai University,
 * C. Rajput, *[The Pythagorean angle lattice and the omni-metallic framework: arithmetic bridges and spectral relations](https://doi.org/10.5281/zenodo.23122625)*, Asia Mathematika, vol. 10, no. 2, pp. 83-98, 2026.
 * C. Rajput, *[The Universal Pythagorean Angle Lattice: Converging to pi, e, gamma, zeta(3), Catalan's Constant, and the Golden Ratio](https://pandianeducationaltrust.com/data/uploads/pjms-pandian-journal-of-mathematical-studies-files/pjms-volume-5-issue-1-july-2026/1-%20Chetansing%20Rajput.pdf)*, Pandian Journal of Mathematical Sciences, vol. 5, no. 1, pp. 1-12, 2026.
 * C. Rajput, *[Golden Ratio](https://doi.org/10.24297/jam.v20i.8945)*, Journal of Advances in Mathematics, vol. 20, pp. 19-42, 2021.
-  
+
+## Contribution, Impact and Citation
+
+The 2024 paper *[Metallic means and Pythagorean triples](https://nntdm.net/volume-30-2024/number-1/184-194/)* is cited in the Wikipedia article on "[Metallic mean](https://en.wikipedia.org/wiki/Metallic_mean#cite_note-6)". 
+
+This work introduced the quarter-angle identity $\cot(\theta/4)$ for primitive Pythagorean triangles, which precisely yields the values of generalized metallic means. Key contributions derived from this framework include:
+* Establishing a novel connection between number theory and Diophantine geometry.
+* Identifying the [Golden Ratio within primitive Pythagorean triples](https://pandianeducationaltrust.com/data/uploads/pjms-pandian-journal-of-mathematical-studies-files/pjms-volume-5-issue-1-july-2026/1-%20Chetansing%20Rajput.pdf).
+* Proving primitive Pythagorean triples as [universal constant generators](https://doi.org/10.5281/zenodo.22234214), yielding algebraic, logarithmic, and transcendental constants.
+
 ## International Collaboration
 
 Dr. Rajput has engaged in international research collaborations, notably co-authoring work with researchers affiliated with leading global institutions.
